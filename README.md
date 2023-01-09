@@ -19,9 +19,10 @@ const aboutMe = {
       'HTML 5',
       'CSS 3',
       'FIGMA',
-      ''
+      'JQuery'
   ],
   BackEndTools = [
+      'PHP',
       'Node js',
       'Express',
       'Koa',
@@ -52,7 +53,8 @@ const contactMe = () => ({
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucioln&theme=tokyonight" alt="lucioln" /></p>
 </div>
 
-## 👨🏻‍💻 Tecnologias que eu aprendi 
+## 👨🏻‍💻 Tecnologias que eu aprendi
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -74,6 +76,7 @@ const contactMe = () => ({
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+   
 </div>
 
   <a href="https://www.linkedin.com/in/lucionoleto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
