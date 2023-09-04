@@ -1,6 +1,6 @@
    ## Minha Jornada 👨🏻‍💻
-Sou nordestino de São Luís do maranhão! 😄
-Tive meu primeiro contato com programação no curso técnico em informática do senai, desde então sou apaixoanado por tecnologia, estou finalizando o curso de Ciência e Tecnologia da Universidade Federal do Maranhão, e atualmente buscando meu primeiro emprego como dev júnior :)
+Sou de São Luís do maranhão! 😄
+Tive meu primeiro contato com programação no curso técnico em informática do senai, desde então sou apaixoanado por tecnologia, estou finalizando o curso de Ciência e Tecnologia da Universidade Federal do Maranhão.
 
   <a href="https://github.com/lucioln"/>
  <div align="center">
